@@ -20,11 +20,14 @@ Aplikasi ini dapat memberikan peringatan untuk menginformasikan bahwa ada data y
 #Fungsi
 Aplikasi ini difungsikan untuk siswa yang ingin daftar lomba LKS SMK untuk bisa mengisi lewat aplikasi ini
 
-# Screenshoot
+# Screenshot
 Berikut adalah beberapa tampilan program
 ![Screenshots App1](https://github.com/nabilaql/Form-Pendaftaran-Lomba/blob/master/SS1.jpeg)
+
 ![Screenshots App2](https://github.com/nabilaql/Form-Pendaftaran-Lomba/blob/master/SS2.jpeg)
+
 ![Screenshots App3](https://github.com/nabilaql/Form-Pendaftaran-Lomba/blob/master/SS3.jpeg)
+
 ![Screenshots App4](https://github.com/nabilaql/Form-Pendaftaran-Lomba/blob/master/SS4.jpeg)
 
 # Link Download
