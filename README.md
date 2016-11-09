@@ -22,6 +22,7 @@ Aplikasi ini difungsikan untuk siswa yang ingin daftar lomba LKS SMK untuk bisa 
 
 # Screenshot
 Berikut adalah beberapa tampilan program
+
 ![Screenshots App1](https://github.com/nabilaql/Form-Pendaftaran-Lomba/blob/master/SS1.jpeg)
 
 ![Screenshots App2](https://github.com/nabilaql/Form-Pendaftaran-Lomba/blob/master/SS2.jpeg)
